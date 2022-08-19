@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#tagline {
+
+
+  font-family: fantasy;
+  font-size: x-small;
+  font-weight: 700;
+  padding-left: 180px;
+ 
+ 
+  }
